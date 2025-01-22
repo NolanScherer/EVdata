@@ -1,0 +1,1 @@
+This is a small personal project for me to gain more experience with data science projects and data analysis tools. The python script uses public government data to visualize trends and predict the best car to buy for a given city.
